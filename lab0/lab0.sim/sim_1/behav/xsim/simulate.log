@@ -1,0 +1,12 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Output is 1000, we expected 1000
+Output is 0110, we expected 0110
+Output is 0100, we expected 0100
+Output is 0001, we expected 0001
+$stop called at time : 25 ns : File "/home/users/aarzooag/lab0/lab0_top_tb.v" Line 61
+Output is 1000, we expected 1000
+Output is 0110, we expected 0110
+Output is 0100, we expected 0100
+Output is 0001, we expected 0001
+$stop called at time : 25 ns : File "/home/users/aarzooag/lab0/lab0_top_tb.v" Line 61

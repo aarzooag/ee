@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/users/aarzooag/ee108/lab1/lab1starterfiles/arbiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module arbiter
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/users/aarzooag/ee108/lab1/lab1starterfiles/encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module length_finder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module length_finder_tb

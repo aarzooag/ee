@@ -1,0 +1,4 @@
+Running: xsim.dir/cam_tb_behav/xsimk -simmode gui -wdb cam_tb_behav.wdb -simrunnum 0 -socket 53473
+Design successfully loaded
+Design Loading Memory Usage: 43748 KB (Peak: 43868 KB)
+Design Loading CPU Usage: 90 ms

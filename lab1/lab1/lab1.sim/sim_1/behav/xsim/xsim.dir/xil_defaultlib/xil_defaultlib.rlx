@@ -1,0 +1,23 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/users/aarzooag/ee108/lab1/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/arbiter.v,1728404103,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/encoder.v,,arbiter,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/arbiter_tb.v,1728405126,verilog,,,,arbiter_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/cam.v,1728452174,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/encoder.v,,cam,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/cam_tb.v,1728328769,verilog,,,,cam_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/encoder.v,1728343372,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder.v,,encoder,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/encoder_tb.v,1728404847,verilog,,,,encoder_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/hash_rom.v,1728452963,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/hash_round.v,,hash_rom,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/hash_rom_tb.v,1728452873,verilog,,,,hash_rom_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/hash_round.v,1728490258,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/hasher.v,,hash_round,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/hash_round_tb.v,1728454162,verilog,,,,hash_round_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/hasher.v,1728457122,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder.v,,hasher,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/hasher_tb.v,1728328767,verilog,,,,hasher_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder.v,1728516116,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder_tb.v,,length_finder,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/length_finder_tb.v,1728516425,verilog,,,,length_finder_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/rotator.v,1728404103,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/verifier.v,,rotator,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/rotator_tb.v,1728407820,verilog,,,,rotator_tb,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/verifier.v,1728489304,verilog,,/home/users/aarzooag/ee108/lab1/lab1starterfiles/verifier_tb.v,,verifier,,,,,,,,
+/home/users/aarzooag/ee108/lab1/lab1starterfiles/verifier_tb.v,1728328763,verilog,,,,verifier_tb,,,,,,,,
